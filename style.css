@@ -1,0 +1,55 @@
+*{
+    margin: 0 ;
+    padding: 0;
+}
+#table1{
+    background-color:rgb(2, 91, 121);
+    padding: 12px 12px;
+    height: 300px;
+    width: 1000px;
+    text-align: center;
+}
+#table2{
+    padding: 12px 12px;
+    height: 100px;
+    width: 900px;
+    text-align: center;
+    margin-left: 95px;
+    background-color: deepskyblue;
+}
+#table2 .paroot{
+    background-color: rgb(141, 255, 96);
+}
+#table2 .silver{
+    background-color: silver;
+    color: black;
+}
+#table1 .line3{
+    background-color: pink;
+}
+#table1 .line4{
+    background-color: brown;
+    color: white;
+}
+#table1 .line5{
+    background-color: rgb(196, 144, 245);
+    color: white;
+}
+#table1 .line6{
+    background-color: rgb(20, 145, 20);
+    color: white;
+}
+#table1 .line2{
+    background-color: aquamarine;
+}
+#table1 .line1{
+    background-color: violet;
+    color: white;
+}
+#table1 .first{
+    background-color: burlywood;
+    color: black;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
